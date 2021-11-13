@@ -1,0 +1,114 @@
+
+
+
+  *::-webkit-scrollbar-thumb {
+    border-radius: 5px;
+    background-color: #d4d4d4;
+  }
+
+  *::-webkit-scrollbar-thumb :hover {
+    background-color: #b3b3b3;
+  }
+
+  a {
+    text-decoration: none;
+  }
+
+  #card_one {
+    margin-left: 25%;
+  }
+
+  h3{
+    zoom: 80%;
+  }
+
+  .iconjinghao {
+    zoom: 150%;
+    color: cyan!important;
+}
+
+  .notes_card {
+    box-sizing: border-box;
+    zoom: 70%;
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 20vw;
+    background: rgba(255, 255, 255, 0.25);
+    box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+    backdrop-filter: blur(8.0px);
+    -webkit-backdrop-filter: blur(8.0px);
+    border-radius: 10px;
+    border: 1px solid rgba(255, 255, 255, 0.18);
+    display: inline-block;
+    height: 230px;
+    transition: 0.3s;
+  }
+
+  .notes_card:hover {
+    box-shadow: 0 8px 39px 0 rgba(0, 0, 0, 0.37);
+    transform: translateY(-10px);
+  }
+
+  .card-img {
+    height: 160px;
+    overflow: hidden;
+    border-radius: 10px;
+    margin: 2.5px;
+    background-position: center;
+    background-size: cover;
+  }
+
+  .card-u {
+    padding-top: 10px;
+    height: 45px;
+    position: relative;
+  }
+
+  .card-u-a {
+    width: 50px;
+    position: absolute;
+    left: 0;
+    top: 10px;
+  }
+
+  .card-u-avatar {
+    width: 35px;
+    height: 35px;
+    border-radius: 10px;
+    margin: 5px;
+  }
+
+  .card-u-t {
+    box-sizing: border-box;
+    width: 100%;
+    padding-left: 50px;
+  }
+
+  .card-u-t-title {
+    font-size: 20px;
+    color: black;
+    line-height: 25px;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .card-u-t-text {
+    font-size: 10px;
+    color: var(--post-text-color);
+    line-height: 20px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  /* 自适应 */
+
+  @media (max-width: 1000px) {
+    .card {
+      width: 40vw !important;
+    }
+    .notes_card{
+        width: 35vw;
+    }
+  }
