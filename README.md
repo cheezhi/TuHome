@@ -61,7 +61,7 @@ TuHome是一个简洁、轻快的毛玻璃风格个人主页主题
 ## 赞助
 
 开发不易，将来也会长期维护优化此项目，希望能得到赞助鼓励一下这个垃圾学生党
-<img style="zoom:100%;" src = "https://blog.imsb.top/img/picture/dashang.png"></img>
+![](https://blog.imsb.top/img/picture/dashang.png)
 
 如果你决心白嫖，那也请你给项目一个**star**，这也将成为作者维护项目的动力
 
