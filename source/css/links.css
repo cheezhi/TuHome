@@ -28,7 +28,8 @@
 }
 
   .notes_card {
-    box-sizing: border-box;
+    font-weight: 300;
+    /* box-sizing: border-box; */
     zoom: 70%;
     margin-top: 5px;
     margin-left: 5px;
@@ -40,7 +41,7 @@
     border-radius: 10px;
     border: 1px solid rgba(255, 255, 255, 0.18);
     display: inline-block;
-    height: 230px;
+    height: 235px;
     transition: 0.3s;
   }
 
@@ -72,8 +73,8 @@
   }
 
   .card-u-avatar {
-    width: 35px;
-    height: 35px;
+    width: 50px;
+    /* height: 35px; */
     border-radius: 10px;
     margin: 5px;
   }
@@ -91,15 +92,18 @@
     white-space: nowrap;
     overflow: hidden;
     text-overflow: ellipsis;
+    font-weight: 300;
   }
 
   .card-u-t-text {
-    font-size: 10px;
+    font-weight: 300;
+    font-size: 13px;
     color: var(--post-text-color);
     line-height: 20px;
     overflow: hidden;
     text-overflow: ellipsis;
     white-space: nowrap;
+    margin-left: 10px;
   }
 
   /* 自适应 */
