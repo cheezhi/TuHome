@@ -6,6 +6,11 @@ document.write('' +
     '<link rel="apple-touch-icon" sizes="76x76" href="source/img/logo.png">\n' +
     '<link rel="shortcut icon" href="source/img/logo.png" type="image/x-png">\n' +
     '<link rel="stylesheet" href="source/css/mystyle.css">\n' +
+    '<!--' +
+    'Hi, It\'s TuHome. This is a good homepage theme.' +
+    'Github: https://github.com/ye-tutu/TuHome' +
+    'Gitee: https://gitee.com/ye-tutu/TuHome' +
+    '-->' +
     '');
 
 
