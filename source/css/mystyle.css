@@ -141,8 +141,7 @@ body {
 
 
 .iconfont{
-    zoom: 150%;
-    color: black;
+    font-size: 25px!important;
 }
 
 a{
