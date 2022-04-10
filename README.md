@@ -10,7 +10,7 @@ TuHome是一个简洁、轻快的毛玻璃风格个人主页主题
 
 ![TuHome](https://cdn.jsdelivr.net/gh/ye-tutu/blog-cdn@main/picture/1636812165000.png)
 
-文档：https://blog.imsb.top/archives/20211114/
+文档：https://www.tutime.cn/archives/20211114/
 
 ## 特色
 
