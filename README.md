@@ -4,7 +4,8 @@
 
 TuHome是一个简洁、轻快的毛玻璃风格个人主页主题
 
-此项目不允许非法用途
+该项目遵循中国法律，禁止任何非法用途，如色情、侵权和盗版等
+The project follows Chinese laws and prohibits any illegal use, such as pornography, infringement and piracy
 
 <!--more-->
 
